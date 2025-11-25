@@ -8,7 +8,7 @@ title: Home
 ---
 
 Bienvenido a mi GitHub Page. Aquí documento mis proyectos, mi progreso como desarrollador backend y mi camino hacia DevOps.  
-Soy un desarrollador mexicano de 30 años, apasionado por la arquitectura backend, bases de datos, CI/CD, contenedores y automatización.
+Apasionado por la arquitectura backend, bases de datos, CI/CD, contenedores y automatización.
 
 ---
 
@@ -37,16 +37,6 @@ Soy un desarrollador mexicano de 30 años, apasionado por la arquitectura backen
 
 ## 📚 Proyectos Destacados
 
-### 🔹 **TutoAula** (Tesis – Plataforma Educativa)
-Backend completo con:
-- Node.js + TypeScript  
-- Sequelize + PostgreSQL  
-- RBAC avanzado (roles, permisos, CASL)  
-- Arquitectura modular  
-- Docker + GitHub Actions (CI/CD)  
-- Kubernetes (pruebas iniciales)
-
-📌 Código: [github.com/TutoAula](https://github.com/TutoAula)
 
 ---
 
@@ -67,15 +57,4 @@ Estoy construyendo guías y apuntes de:
 - Git workflows
 - Obsidian PKM
 
-*(Muy pronto)*
 
----
-
-## 📬 Contacto
-- **GitHub:** [b7zk](https://github.com/b7zk)  
-- **LinkedIn:** *(agregar enlace aquí)*  
-- **Correo:** *(opcional)*  
-
----
-
-> _“Con todo! Mierda!!”_ — Mi mantra en el gym y en el código.
